@@ -1,0 +1,2 @@
+exports.INITIAL_MESSAGE_ON_STARTUP_SERVER = port => `PROCESS RUNNING ON PORT ${port}`;
+exports.MSG_WHEN_CONNECTED_TO_THE_MONGO = 'Connected to the MongoDB';
