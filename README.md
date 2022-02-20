@@ -8,4 +8,4 @@ Items missing:
 - [ ] Add more routes
 - [ ] DDD
 - [ ] Swagger documentation
-- [ ] Refactor code to be reusable
+- [ ] Refact code to be reusable
